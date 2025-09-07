@@ -1,0 +1,15 @@
+{
+  "filename": "ananya_test_vid.mp4",
+  "video_info": {
+    "fps": 30.02251688766575,
+    "frame_count": 272,
+    "width": 478,
+    "height": 850,
+    "duration": 9.059866666666666
+  },
+  "attendance_results": [],
+  "processing_time": 1755540070.9819276,
+  "total_detections": 0,
+  "unique_students": 0,
+  "total_attendance": 0
+}
